@@ -1,8 +1,9 @@
-##Hi there, my name Is Johan!
+## Hi there, my name Is Johan!
  - 🔭 Ongoing Projects: SweHosting
  - 💻 Languages I code in: HTML, CSS, JavaScript, Lua, Python and small amounts of C# and Java.
  - 🌱 I’m currently learning: In depth Linux SysAdmin
- - 📫 Contact me
+ 
+ ### 📫 Contact me
  - Email: [johan@swehosting.se]
  - Company email: [support@swehosting.se]
  - Discord: [Johan#3805]
