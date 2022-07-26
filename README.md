@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [SweHosting](https://swehosting.se)  
   
 
-- 🌱 I’m currently learning C# and Kubernetes  
+- 🌱 I’m currently learning TS 
   
 
 - ⚡ Fun fact: I have an addiction to many tabs  
