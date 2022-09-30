@@ -83,6 +83,6 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-org-stats-johan.vercel.app/api/top-langs/?username=jouandeag&langs_count=6&exclude_repo=FirstUnityGame&org=SweHosting&layout=compact&theme=radical" align="left" style="width: 100%" />
+<img src="https://github-org-stats-johan.vercel.app/api/top-langs/?username=jouandeag&langs_count=6&exclude_repo=FirstUnityGame,github-stats,vuexy-vue-working&org=SweHosting&layout=compact&theme=radical" align="left" style="width: 100%" />
 
 </td></tr></table>  
