@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+  <h1> Hi there! <h1/>
 </div>  
   
 
-### <div align="center">I'm Johan, a part-time full-stack freelance developer and entrepreneur 👨‍💻 </div>  
+## <div align="center">I'm Johan, a part-time full-stack freelance developer and entrepreneur 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [SweHosting](https://swehosting.se) and [DybHosting](https://dybhosting.com)
@@ -20,9 +20,10 @@
 
 ## I have experience in:
 
-1. JavaScript & TypeScript
-2. Svelte & SvelteKit
-3. HTML & CSS + SCSS
+1. Systems Administration 
+2. JavaScript & TypeScript
+3. Svelte & SvelteKit
+4. HTML & CSS + SCSS
 
 ## I speak the following languages:
 
