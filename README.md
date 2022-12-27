@@ -1,9 +1,8 @@
-<div align="center">
-  <h1> Hi there! <h1/>
-</div>  
-  
+# <div align="center"> Hi there! 👋</div>
 
-## <div align="center">I'm Johan, a part-time full-stack freelance developer and entrepreneur 👨‍💻 </div>  
+ <div align="center">
+  I'm Johan, a part-time full-stack freelance developer and entrepreneur 👨‍💻 
+</div>  
   
 
 - 🔭 I’m currently working on [SweHosting](https://swehosting.se) and [DybHosting](https://dybhosting.com)
