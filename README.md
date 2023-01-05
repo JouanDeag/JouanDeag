@@ -34,9 +34,9 @@
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
 
-<img style="width: 45%" src="https://github-org-stats-johan.vercel.app/api?username=jouandeag&count_private=true&show_icons=true&theme=radical" align="left" style="width: 100%" />
+<img style="width: 45%" src="https://github-readme-stats.vercel.app/api?username=jouandeag&count_private=true&show_icons=true&theme=radical" align="left" style="width: 100%" />
 
 
-<img style="width: 45%" src="https://github-org-stats-johan.vercel.app/api/top-langs/?username=jouandeag&hide=HTML,CSS,Hack,PlpgSQL,PHP,EJS,Smarty&langs_count=6&exclude_repo=FirstUnityGame,github-stats,github-org-stats,vuexy-working-vue,vuexy-working-vue-laravel&org=SweHosting&layout=compact&theme=radical" align="left" style="width: 100%" />
+<img style="width: 45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jouandeag&hide=HTML,CSS,Hack,PlpgSQL,PHP,EJS,Smarty&langs_count=6&exclude_repo=FirstUnityGame,github-stats,github-org-stats,vuexy-working-vue,vuexy-working-vue-laravel&org=SweHosting&layout=compact&theme=radical" align="left" style="width: 100%" />
 
 </div>
